@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+aside{
+    background-color: aquamarine;
+    width: 125px;
+    height: 125vh;
+    box-shadow: 0px 10px 10px color(srgb-linear #6ffd16b1);
+}
+aside image{
+    border-radius: 25px;
+    display: block;
+    padding: 14px;
+}
+aside a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 25px;
+    display: block;
+}
+aside a :hover {
+    background-color: antiquewhite;
+    color: black;
+    cursor: pointer;
+}
+header 
+    h1{
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+        background-color: darkorchid;
+        color: dimgrey;
+
+    }
+    aside a {
+        text-align:start
+        
+        
+        
+        
+        
+        ;
+        
+    }
+    
